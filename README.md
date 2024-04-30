@@ -1,2 +1,1 @@
-# Disease-prediction-using-Machine-Learning
-This Machine Learning project is used to predict the disease based on the symptoms given by the user.It predicts using three different machine learning algorithms.So,the output is accurate.It uses tkinter for GUI.
+This is disease prediction System which is build on python and machine learning algorithm's such as DecisionTree , Randomforest , NaiveBayes. It also has front end or GUI which is prepared using tkinter which is one of the library of python. Also the accuracy of predictions are around 90.1% .
